@@ -17,19 +17,19 @@ function ServicesSection() {
                     <ServiceCard 
                         image={design} 
                         title={'Front-End '} 
-                        paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                        // paragraph={'HTML & CSS react '}
                     />
                    
                         <ServiceCard 
                             image={intelligence} 
                             title={'Back-End '} 
-                            paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                            // paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
                         />
                    
                     <ServiceCard 
                         image={gamedev} 
                         title={'Administration et sécurité des systèmes et des réseaux'} 
-                        paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                        // paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
                     />
                 </div>
             </ServicesSectionStyled>

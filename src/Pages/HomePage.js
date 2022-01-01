@@ -16,7 +16,7 @@ function HomePage() {
                 <Particle />
             </div>
             <div className="typography">
-                <h1>Bonjour, je m'appelle <span>Nibrasse HMIDI</span></h1>
+                <h1>Bonjour, je me présente je suis <span>Nibrasse HMIDI</span></h1>
                 <p>
                 Je viens de terminer ma formation de développeur web (MERN full-stack js) chez GoMyCode et je cherche un poste de développeur web.
 

@@ -12,20 +12,22 @@ function ImageSection() {
             <div className="right-content">
                 <h4>C'est  <span>Nibrasse HMIDI</span></h4>
                 <p className="paragraph">
-                j’ai Mastère professionnelle en administration et sécurité des systèmes et des réseaux,développeur Web MERN Full Stack, actif, curieux, dynamique, passionné par la programmation et le développement web.. Je suis motivé, j'essaye toujours de faire de mon mieux et apprendre le métier developement  avec des bases solides grâce à plusieurs projets académiques et professionnels.
+                j’ai un Master professionnel en administration et sécurité des systèmes et des réseaux,développeuse Web (MERN) Full Stack, active ,curieuse dynamique, passionnée par la programmation et le développement web.. Je suis motivée, j'essaye toujours de faire mon mieux et apprendre le métier developement  avec des bases solides grâce à plusieurs projets académiques et professionnels.
                 </p>
                 <div className="about-info">
                     <div className="info-title">
-                        <p>Full Name</p>
-                        <p>Age</p>
-                        <p>Nationality </p>
-                        <p>Languages </p>
-                        <p>Location</p>
+                        <p>Nom</p>
+                        <p>Âge</p>
+                        <p>téléphone</p>
+                        <p>Nationalité </p>
+                        <p>Langages </p>
+                        <p>localisation</p>
                         <p>Service</p>
                     </div>
                     <div className="info">
                         <p>:Nibrasse HMIDI</p>
                         <p>: 26</p>
+                        <p>:27896697</p>
                         <p>:  Tunisian </p>
                         <p>: arabic, French, English </p>
                         <p>: Tunis,Gafsa,Metlaoui</p>
