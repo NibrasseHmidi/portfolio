@@ -8,6 +8,7 @@ function ServiceCard({image, title, paragraph}) {
                 <img src={image} alt=""/>
                 <h4>{title}</h4>
                 <p>{paragraph}</p>
+              
             </div>
         </ServiceCardStyled >
     )
@@ -45,6 +46,10 @@ const ServiceCardStyled = styled.div`
 
         p{
             padding: .8rem 0;
+            margin:2px
+            
+            
+            
         }
         img{
             width: 240px;

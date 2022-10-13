@@ -38,8 +38,13 @@ function Skills() {
                            
                         />
                         <ProgressBar 
-                            title={'PYTHON'}
-                            width={'40%'}
+                            title={'Angular'}
+                            width={'50%'}
+                          
+                        />
+                           <ProgressBar 
+                            title={'Vue JS'}
+                            width={'50%'}
                           
                         />
                         <ProgressBar 

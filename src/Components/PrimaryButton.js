@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
-import MyPDF from '../File/f.pdf';
+import MyPDF from '../File/CV.pdf';
 function PrimaryButton({title}) {
     return (
         <PrimaryButtonStyled href={MyPDF} target="_blank" rel="noopener noreferrer" download>

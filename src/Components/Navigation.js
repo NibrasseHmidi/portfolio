@@ -1,14 +1,14 @@
 import React from 'react'
 import styled from 'styled-components';
 import {NavLink} from 'react-router-dom';
-import avatar from '../img/y.jpg';
+import avatar from '../img/nib.jpg';
 
 function Navigation() {
     return (
         <NavigationStyled>
             <div className="avatar">
                 <img src={avatar} alt=""/>
-                <p>           MERN Full-stack JS developer chez GoMyGode
+                <p>          Junior full-stack developpers (MERN)
 </p>
             </div>
             <ul className="nav-items">
@@ -56,7 +56,7 @@ const NavigationStyled = styled.nav`
         padding: 1rem 0;
         img{
             width: 200px;
-            height:200px;
+            height:300px;
             border-radius: 50%;
             border: 8px solid var(--border-color);
         }

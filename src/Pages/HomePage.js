@@ -16,7 +16,7 @@ function HomePage() {
                 <Particle />
             </div>
             <div className="typography">
-                <h1>Bonjour, je me présente je suis <span>Nibrasse HMIDI</span></h1>
+                <h1>Bonjour, je suis <span>Nibrasse HMIDI 👩‍💻</span></h1>
                 <p>
                 Je viens de terminer ma formation de développeur web (MERN full-stack js) chez GoMyCode et je cherche un poste de développeur web.
 
@@ -57,7 +57,7 @@ const HomePageStyled = styled.header`
         left: 50%;
         transform: translate(-50%, -50%);
         text-align: center;
-        width: 80%;
+        width: 60%;
 
         .icons{
             display: flex;

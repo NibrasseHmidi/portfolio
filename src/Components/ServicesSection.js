@@ -17,13 +17,23 @@ function ServicesSection() {
                     <ServiceCard 
                         image={design} 
                         title={'Front-End '} 
-                        // paragraph={'HTML & CSS react '}
+                        paragraph={`
+                        ⚡ Développez des interfaces front-end/utilisateurs hautement interactives pour vos applications Web et mobiles 
+                     
+                        \n
+                        ⚡ Concevoir les interactions des utilisateurs sur les pages Web 
+                        
+                       \n
+                        
+                        ⚡ Écrire un code propre et fonctionnel sur le devant`}
+                      
                     />
                    
                         <ServiceCard 
                             image={intelligence} 
                             title={'Back-End '} 
-                            // paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+
+                            paragraph={'⚡ Création de serveurs et de bases de données pour les fonctionnalités.'}
                         />
                    
                     <ServiceCard 

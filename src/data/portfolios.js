@@ -12,6 +12,12 @@ import img9 from '../img/portImages/parfum.png';
 import img10 from '../img/portImages/toDoApp.png';
 import img11 from '../img/portImages/router.png';
 import img12 from '../img/portImages/youtube.png';
+import img13 from '../img/portImages/cana.png';
+import img14 from '../img/portImages/event.png';
+import img15 from '../img/portImages/st.png';
+import img16 from '../img/portImages/girls.jpeg';
+import img17 from '../img/portImages/tra.png';
+import img18 from '../img/portImages/time.png';
 const portfolios = [
     {
         id: 1,
@@ -126,6 +132,54 @@ const portfolios = [
         link1: 'https://github.com/NibrasseHmidi/ClonageYouTube',
         title: 'Un clonage du youtube react JS ',
         text: 'Créé avec HTML,CSS,JavaScript et ReactJS'
+    },
+    {
+        id: 15,
+        category: 'React JS',
+        image: img13,
+        link1: '#',
+        title: 'Développement d’une application web nommée “Canadin-app” utilisée par de dizaines des recruteurs basé au Québec et embauchant depuis l’international ',
+        text: 'Créé avec TypeScript , Angular, Rxjs, Apollo, Graphql, Transloco'
+    },
+    {
+        id: 16,
+        category: 'Nuxt JS',
+        image: img14,
+        link1: 'https://github.com/NibrasseHmidi/canadin-event-with-strapi',
+        title: 'Développement des interfaces Web intitulé "event canadien-app" pour les événements de grj academy ',
+        text: 'Créé avec JavaScript ,VueJS,NuxtJS,Strapi'
+    },
+    {
+        id: 17,
+        category: 'React JS',
+        image: img15,
+        link1: 'https://github.com/NibrasseHmidi/STB-Sicar',
+        title: 'L’un des premiers Hackathon auquel j’ai participé dans le cadre de mon cursus. J’ai eu à développer l’implémentation front-end pour STB Bank avec une équipe de quatre personnes. Ce fut un hackathon qui dure 48 heures. Jai beaucoup appris !',
+        text: 'Créé avec JavaScript, ReactJS, CSS, SCSS, Bootstrap'
+    },
+    {
+        id: 18,
+        category: 'CSS & HTML',
+        image: img16,
+        link1: 'https://github.com/NibrasseHmidi/The-Powerpuff-Girls-in-Pure-CSS',
+        title: ' Interface de site Web pour les films "the Powerpuff girls" en utilisant CSS',
+        text: 'Créé avec HMTL , CSS'
+    },
+    {
+        id: 19,
+        category: 'CSS & HTML',
+        image: img17,
+        link1: 'https://github.com/NibrasseHmidi/tradisia',
+        title: 'On m’a demandé de construire un frontend simple pour une application de type ecommerce  en moins de 48 heures :)',
+        text: 'Créé avec HMTL , CSS'
+    },
+    {
+        id: 20,
+        category: 'MERN Applications ',
+        image: img18,
+        link1: 'https://github.com/NibrasseHmidi/Time_tracker_challenge',
+        title: 'Dans ce projet MERN, on m’a demandé de créer un interface  Web Time tracker , qui est un  interface  qui capable de chronométrer toutes vos tâches. ',
+        text: 'Créé avec ReactJS ,Redux,JavaScript,MongoDB,NodeJs et Express'
     },
 ]
 
